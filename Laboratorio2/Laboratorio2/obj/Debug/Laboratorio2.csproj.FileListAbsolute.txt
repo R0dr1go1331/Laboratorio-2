@@ -1,0 +1,16 @@
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.Properties.Resources.resources
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.Vista.FrmGuardar.resources
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.Vista.FrmMostrar.resources
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.csproj.GenerateResource.cache
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\bin\Debug\Laboratorio2.exe.config
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\bin\Debug\Laboratorio2.exe
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\bin\Debug\Laboratorio2.pdb
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.csproj.CopyComplete
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.exe
+C:\Users\Rodrigo\Desktop\practice\Laboratorio-2\Laboratorio2\Laboratorio2\obj\Debug\Laboratorio2.pdb
